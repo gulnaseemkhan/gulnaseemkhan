@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-  <img src="./naseemgithub.png" alt="Gul Naseem Khan - Cyber Security & Web Development" width="100%">
+  <img src="./github-banner.png" alt="Gul Naseem Khan - Cyber Security & Web Development" width="100%">
 </p>
 
 <!-- ===================== INTRODUCTION ===================== -->
