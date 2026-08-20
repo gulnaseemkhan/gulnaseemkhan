@@ -1,115 +1,102 @@
-<!-- ===================== PROFILE BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="github-banner.png" alt="Gul Naseem Khan - Cyber Security & Web Development" width="100%">
+  <img src="github-banner.png" alt="Gul Naseem Khan - Cyber Security & Web Developer" width="100%">
 </p>
 
-<!-- ===================== INTRODUCTION ===================== -->
+<!-- ===================== INTRO ===================== -->
 
-<h1 align="center">
-  Hi, I'm Gul Naseem Khan 👋
-</h1>
+<h1 align="center">Hi, I'm Gul Naseem Khan 👋</h1>
 
 <h3 align="center">
-  Cyber Security Student | Web Developer | Frontend Enthusiast 🔐💻
+🔐 Cyber Security Student | 💻 Web Developer | 🎨 Frontend Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://naseemkhan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/gulnaseemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+Passionate about Cyber Security, Web Development and building useful digital solutions.
+</p>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<p align="center">
+
+<a href="https://github.com/gulnaseemkhan" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-gulnaseemkhan-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gul-naseem-khan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Gul%20Naseem%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/gul_naseem_020" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-gul__naseem__020-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://twitter.com/gul_naseemkhan" target="_blank">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-gul__naseemkhan-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-- 🎓 I'm currently studying **BS Cyber Security**
-- 🔐 Interested in **Cyber Security & Information Security**
-- 💻 Working on **Web Development**
-- 🌐 Focused on **HTML, CSS & JavaScript**
-- 🐍 Learning **Python & Backend Development**
-- 🐧 Exploring **Linux and Security Tools**
-- 🚀 Building projects to improve my practical skills
+## 👨‍💻 About Me
+
+- 🎓 BS Cyber Security Student
+- 🔐 Interested in Cyber Security & Information Security
+- 💻 Web Developer
+- 🎨 Frontend Development Enthusiast
+- 🌐 Working with HTML, CSS & JavaScript
+- 🐍 Learning Python & Backend Development
+- 🐧 Exploring Linux & Security Tools
+- 🚀 Building practical projects
 - 📚 Always learning new technologies
 
 ---
 
+<!-- ===================== CURRENT WORK ===================== -->
+
 ## 🔭 Currently Working On
 
-🏨 **Naseem Grand Hotel**
+### 🏨 Naseem Grand Hotel
 
-A modern web project focused on creating a professional hotel website.
+A modern hotel website project focused on creating a professional and responsive web experience.
 
-👉 **Project:**  
-[View Naseem Grand Hotel](https://naseemkhan.pythonanywhere.com/)
+**Technologies:**
 
----
+`HTML` `CSS` `JavaScript` `Python` `Flask`
 
-## 🌐 My Portfolio
-
-All my projects and web development work:
-
-👉 **[Visit My Portfolio](https://naseemkhan.netlify.app/)**
-
----
-
-## 🛠️ Languages & Technologies
-
-<p align="center">
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C">
+<p>
+<a href="https://naseemkhan.pythonanywhere.com/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20Naseem%20Grand%20Hotel-00C896?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++">
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python">
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java">
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git">
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
-</a>
-
 </p>
 
 ---
+
+<!-- ===================== PORTFOLIO ===================== -->
+
+## 🌐 My Portfolio
+
+All of my web development projects are available on my portfolio.
+
+<p>
+<a href="https://naseemkhan.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C896?style=for-the-badge">
+</a>
+</p>
+
+---
+
+<!-- ===================== CYBER SECURITY ===================== -->
 
 ## 🔐 Cyber Security
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cyber%20Security-0A0A0A?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Cyber%20Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF9C">
 
 <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624">
 
@@ -120,6 +107,8 @@ All my projects and web development work:
 </p>
 
 ---
+
+<!-- ===================== WEB DEVELOPMENT ===================== -->
 
 ## 💻 Web Development
 
@@ -133,91 +122,112 @@ All my projects and web development work:
 
 <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB">
 
+<img src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=white">
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===================== LANGUAGES & TOOLS ===================== -->
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gulnaseemkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Gul Naseem Khan GitHub Stats"
-    height="180"
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulnaseemkhan&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,linux,git,github,mysql">
+
 </p>
 
 ---
+
+<!-- ===================== GITHUB STREAK ===================== -->
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=gulnaseemkhan&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com?user=gulnaseemkhan&theme=tokyonight&hide_border=true">
+
 </p>
 
 ---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
 ### 🏨 Naseem Grand Hotel
 
-Modern hotel website project.
+Modern hotel website built as a web development project.
 
-**Technology:** HTML • CSS • JavaScript • Python/Flask
+**Stack:** HTML • CSS • JavaScript • Python • Flask
 
-👉 [View Project](https://naseemkhan.pythonanywhere.com/)
+<a href="https://naseemkhan.pythonanywhere.com/" target="_blank">
+View Project →
+</a>
 
 ---
 
 ### 🌐 Naseem Portfolio
 
-Personal portfolio showcasing my web development projects.
+Personal portfolio website showcasing my web development projects and skills.
 
-👉 [View Portfolio](https://naseemkhan.netlify.app/)
+<a href="https://naseemkhan.netlify.app/" target="_blank">
+View Portfolio →
+</a>
 
 ---
+
+### 🤖 AI Chatbot
+
+An AI-based chatbot project developed while exploring Python and AI technologies.
+
+<a href="https://github.com/gulnaseemkhan/AI_chatbot" target="_blank">
+View Project →
+</a>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/gul-naseem-khan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://github.com/gulnaseemkhan" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://instagram.com/gul_naseem_020" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://twitter.com/gul_naseemkhan" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 </p>
 
 ---
 
-## 📈 Profile Views
+<!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gulnaseemkhan&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge" alt="Profile Views">
+
+<img src="https://komarev.com/ghpvc/?username=gulnaseemkhan&label=PROFILE%20VIEWS&color=00C896&style=for-the-badge">
+
 </p>
 
 ---
 
 <h3 align="center">
-  🔐 Code • Learn • Secure • Build 🚀
+🔐 Code • Learn • Secure • Build 🚀
 </h3>
 
 <p align="center">
-  Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐
 </p>
